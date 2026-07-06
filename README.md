@@ -28,7 +28,7 @@
 
 ---
 
-## > whoami
+## Who Am I?
 
 ```yaml
 name: Akshay Krishna Varma
@@ -42,7 +42,7 @@ focus:
 
 currently_working_on:
   - MLOps
-  - AI Agent systems
+  - AI Agent Systems
 
 currently_learning:
   - AI Agents
@@ -72,7 +72,7 @@ domains:
 
 ---
 
-## ▸ currently_working_on
+## Currently Working On
 
 ```bash
 > MLOps pipelines and deployment workflows
@@ -83,7 +83,7 @@ domains:
 
 ---
 
-## ▸ tech_stack
+## Tech Stack
 
 | Category                  | Technologies                                                         |
 | ------------------------- | -------------------------------------------------------------------- |
@@ -100,7 +100,7 @@ domains:
 
 ---
 
-## > core_focus
+## Core Focus
 
 ```diff
 + MLOps & Production AI
@@ -124,7 +124,7 @@ domains:
 
 + Natural Language Processing
   - NLP application development
-  - Language-focused machine learning
+  - Language-focused Machine Learning
   - AI-powered backend systems
 
 + Computer Vision
@@ -135,7 +135,7 @@ domains:
 
 ---
 
-## ▸ development_ecosystem
+## Development Ecosystem
 
 ```text
 AI / ML
@@ -183,45 +183,7 @@ Visualization
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AKSHAYKRISHNAVARMA&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=AKSHAYKRISHNAVARMA&theme=default&hide_border=false" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AKSHAYKRISHNAVARMA&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=AKSHAYKRISHNAVARMA&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
-
-</div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-
-<img src="https://github-contributor-stats.vercel.app/api?username=AKSHAYKRISHNAVARMA&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-
-</div>
-
----
-
-## ▸ connect_with_me
+## Connect With Me
 
 ```bash
 > LinkedIn: linkedin.com/in/abuddhar
